@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+  width: 100vw;
+  height: 100vh;
+   text-align:center
+   
+}
+p{
+ font-size: xx-large;
+ padding: 15%;
+}
+body {
+    background-image: url("img2.jpg");
+}
+
+button{
+  
+    font-size: xx-large;
+    padding: 0.75%em;
+}
+
+#yesbtn{
+    transform: translate(-100%,0);
+}
+
+#nobtn{
+    position: absolute;
+}
